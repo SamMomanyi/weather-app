@@ -13,8 +13,8 @@ Features:
 
 Tech Stack
 
-Kotlin / Java (depending on your implementation)
+Kotlin 
 
 Retrofit for API calls
 
-Jetpack Compose / XML for UI (whichever you used)
+Jetpack Compose 
